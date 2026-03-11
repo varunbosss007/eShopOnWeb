@@ -9,7 +9,7 @@ env:
   LOCATION: centralus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: bac4bb35-db12-4e5b-aca1-c3dcf9260daa
-  WEBAPP-NAME: eshoponweb-webapp-NAME
+  WEBAPP-NAME: eshoponweb-webapp-PSP123
 
 jobs:
   #Build, test and publish .net web project in repository
